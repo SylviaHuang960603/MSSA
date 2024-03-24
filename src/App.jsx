@@ -46,5 +46,5 @@ const App = () => {
     </div>
   );
 };
-
+// Removed unused import statement
 export default App;
