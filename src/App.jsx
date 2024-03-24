@@ -29,7 +29,7 @@ const siteProps = {
   email: "hsiaohan.huang@students.mq.edu.au",
   gitHub: "SylviaHuang960603",
   linkedIn: "hsiao-han-huang-587a401a6",
-  medium: "@sylviahuang1998",
+  medium: "https://medium.com/@sylviahuang1998",
 };
 
 const primaryColor = "#4E567E";
