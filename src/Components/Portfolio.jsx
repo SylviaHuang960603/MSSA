@@ -31,7 +31,8 @@ const imageAltText = "data";
  */
 const projectList = [
   {
-    title: "Leveraging Data to Increase the Repurchase Rate of New Customers: A Case Study of Greenvines",
+    title:
+      "Leveraging Data to Increase the Repurchase Rate of New Customers: A Case Study of Greenvines",
     description:
       "Greenvines is a Taiwanese cosmetics brand with both physical and online stores. Their focus for 2022 is to increase the repurchase rate of new customers. To achieve this, the marketing team will analyze customer behavior and purchasing channels to identify opportunities for improvement.",
     url: "https://medium.com/@sylviahuang1998/how-do-data-solve-a-business-problem-why-do-i-learn-sql-ff5c575c95a7",
