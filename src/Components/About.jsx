@@ -16,27 +16,28 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/Back.jpg";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "grey background";
+
 
 /**
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "Currently studying for a Master of Business Analytics at Macquarie University, and have garnered 2 years of industry experience in growth marketing and data analysis, supported by relevant certifications.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Data analytics",
+  "SQL, Python, R, and Tableau",
+  "Customer Relationship management skills",
+  "Digital Marketing",
+  "Growth Marketing",
+  "Data Processing and visualisation",
 ];
 
 /**
@@ -45,7 +46,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am passionate about securing the data analyst role that would enable me to use my skills in data analytics, growth marketing, and sales to contribute to the growth of the business.";
 
 const About = () => {
   return (

@@ -19,9 +19,11 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/data.jpg";
 
-const imageAltText = "desktop with books and laptop";
+
+
+const imageAltText = "data";
 
 /**
  * Project list
@@ -31,28 +33,10 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Leveraging Data to Increase the Repurchase Rate of New Customers: A Case Study of Greenvines",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
-  },
-  {
-    title: "Web Development for Beginners",
-    description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
-  },
-  {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Greenvines is a Taiwanese cosmetics brand with both physical and online stores. Their focus for 2022 is to increase the repurchase rate of new customers. To achieve this, the marketing team will analyze customer behavior and purchasing channels to identify opportunities for improvement.",
+    url: "https://medium.com/@sylviahuang1998/how-do-data-solve-a-business-problem-why-do-i-learn-sql-ff5c575c95a7",
   },
 ];
 
