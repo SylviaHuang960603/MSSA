@@ -7,5 +7,5 @@ const Education = () => {
     </section>
   );
 };
-
+<Education />;
 export default Education;
