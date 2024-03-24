@@ -33,7 +33,7 @@ const description =
 const skillsList = [
   "Data analytics",
   "SQL, Python, R, and Tableau",
-  "Customer Relationship management skills",
+  "CustomerRelationshipManagement",
   "Digital Marketing",
   "Growth Marketing",
   "Data Processing and visualisation",
