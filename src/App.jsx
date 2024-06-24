@@ -25,12 +25,13 @@ import "./styles.css";
  */
 const siteProps = {
   name: " Hsiao-Han Huang",
-  title: "Student Ambassador@Microsoft | Data Analyst Intern @ BT Financial Group | MS of Business Analytics@Macquarie",
+  title: "Student Ambassador@Microsoft|Data Analyst Intern @ BT Financial Group|MS of Business Analytics@Macquarie",
   email: "hsiaohan.huang@students.mq.edu.au",
   gitHub: "SylviaHuang960603",
   linkedIn: "hsiao-han-huang-587a401a6",
   medium: "sylviahuang1998",
 };
+
 
 
 const primaryColor = "#4E567E";

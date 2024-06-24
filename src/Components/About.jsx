@@ -35,7 +35,6 @@ const skillsList = [
   "Data analytics",
   "SQL, Python, R, and Tableau",
   "Data Processing and visualisation",
-  "CustomerRelationshipManagement",
   "Growth Marketing",
 ];
 

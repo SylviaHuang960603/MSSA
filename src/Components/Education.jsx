@@ -11,7 +11,7 @@ const Education = () => {
       </div>
       <div>
         <h3>National Sun-Yat Sen University</h3>
-        <p>Bachelor of Sociology with a Marketing Program</p>
+        <p>Bachelor of Sociology</p>
         <p>Graduated in 2019</p>
       </div>
     </section>
