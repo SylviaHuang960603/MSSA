@@ -34,10 +34,9 @@ const description =
 const skillsList = [
   "Data analytics",
   "SQL, Python, R, and Tableau",
-  "CustomerRelationshipManagement",
-  "Digital Marketing",
-  "Growth Marketing",
   "Data Processing and visualisation",
+  "CustomerRelationshipManagement",
+  "Growth Marketing",
 ];
 
 /**
@@ -46,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about securing the data analyst role that would enable me to use my skills in data analytics, growth marketing, and sales to contribute to the growth of the business.";
+  "I am passionate about securing the data analyst/business analyst role that would enable me to use my skills in data analytics, growth marketing, and sales to contribute to the growth of the business.";
 
 const About = () => {
   return (

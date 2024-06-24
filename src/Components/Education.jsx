@@ -6,7 +6,7 @@ const Education = () => {
       <h2>Education</h2>
       <div>
         <h3>Macquarie University</h3>
-        <p>Masters of Data Analytics</p>
+        <p>Masters of Business Analytics</p>
         <p>Graduated in 2024</p>
       </div>
       <div>
@@ -17,5 +17,6 @@ const Education = () => {
     </section>
   );
 };
+
 
 export default Education;
